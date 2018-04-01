@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lumbyspooler">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="lumbyspooler.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="LumbySpooler" />
+    </root>
+  </artifact>
+</component>
